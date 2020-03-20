@@ -1,0 +1,21 @@
+2020-03-20 09:55:21,547 INFO  main                             - SOFABoot Runtime Starting!
+2020-03-20 09:55:22,946 INFO  main                             - Registering component: service:io.sofastack.dynamic.facade.StrategyService
+2020-03-20 09:55:22,946 INFO  main                             -  <<PreOut Binding [jvm] Begins - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:55:22,946 INFO  main                             -  <<PreOut Binding [jvm] Ends - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:55:22,946 INFO  main                             -  <<Out Binding [jvm] Begins - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:55:22,946 INFO  main                             -  <<Out Binding [jvm] Ends - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:55:22,947 INFO  main                             - Register Service - io.sofastack.dynamic.facade.StrategyService
+2020-03-20 09:55:38,329 INFO  main                             - SOFABoot Runtime Starting!
+2020-03-20 09:55:39,469 INFO  main                             - Registering component: service:io.sofastack.dynamic.facade.StrategyService
+2020-03-20 09:55:39,469 INFO  main                             -  <<PreOut Binding [jvm] Begins - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:55:39,469 INFO  main                             -  <<PreOut Binding [jvm] Ends - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:55:39,469 INFO  main                             -  <<Out Binding [jvm] Begins - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:55:39,469 INFO  main                             -  <<Out Binding [jvm] Ends - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:55:39,469 INFO  main                             - Register Service - io.sofastack.dynamic.facade.StrategyService
+2020-03-20 09:56:15,143 INFO  main                             - SOFABoot Runtime Starting!
+2020-03-20 09:56:16,346 INFO  main                             - Registering component: service:io.sofastack.dynamic.facade.StrategyService
+2020-03-20 09:56:16,346 INFO  main                             -  <<PreOut Binding [jvm] Begins - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:56:16,346 INFO  main                             -  <<PreOut Binding [jvm] Ends - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:56:16,346 INFO  main                             -  <<Out Binding [jvm] Begins - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:56:16,346 INFO  main                             -  <<Out Binding [jvm] Ends - io.sofastack.dynamic.facade.StrategyService.
+2020-03-20 09:56:16,346 INFO  main                             - Register Service - io.sofastack.dynamic.facade.StrategyService
